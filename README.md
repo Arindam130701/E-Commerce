@@ -1,4 +1,4 @@
-# Amazon Clone
+# Myntra Clone
 
 The Amazon Clone is a fully functional e-commerce website that replicates the core features of Amazon, allowing users to sign up, list products for sale, add items to a cart, and make purchases through a secure payment gateway.
 
